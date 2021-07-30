@@ -1,0 +1,1090 @@
+{
+    "flights": [
+        {
+            "lastUpdatedAt": "2021-07-30T01:00:02.115+02:00",
+            "actualLandingTime": "2021-07-29T23:28:40.000+02:00",
+            "actualOffBlockTime": null,
+            "aircraftRegistration": "PHHZO",
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "73H"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "4"
+                ]
+            },
+            "checkinAllocations": null,
+            "codeshares": {
+                "codeshares": [
+                    "KL2579"
+                ]
+            },
+            "estimatedLandingTime": "2021-07-29T23:29:05.000+02:00",
+            "expectedTimeBoarding": null,
+            "expectedTimeGateClosing": null,
+            "expectedTimeGateOpen": null,
+            "expectedTimeOnBelt": "2021-07-30T00:17:01.000+02:00",
+            "expectedSecurityFilter": null,
+            "flightDirection": "A",
+            "flightName": "HV6334",
+            "flightNumber": 6334,
+            "gate": "C12",
+            "pier": "C",
+            "id": "132603125539819508",
+            "isOperationalFlight": true,
+            "mainFlight": "HV6334",
+            "prefixIATA": "HV",
+            "prefixICAO": "TRA",
+            "airlineCode": 164,
+            "publicEstimatedOffBlockTime": null,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "VLC"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2021-07-30T00:00:00.000+02:00",
+            "scheduleDate": "2021-07-30",
+            "scheduleTime": "00:00:00",
+            "serviceType": "J",
+            "terminal": 1,
+            "transferPositions": null,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2021-07-30T01:00:02.115+02:00",
+            "actualLandingTime": "2021-07-29T23:28:40.000+02:00",
+            "actualOffBlockTime": null,
+            "aircraftRegistration": "PHHZO",
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "73H"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "4"
+                ]
+            },
+            "checkinAllocations": null,
+            "codeshares": {
+                "codeshares": [
+                    "KL2579"
+                ]
+            },
+            "estimatedLandingTime": "2021-07-29T23:29:05.000+02:00",
+            "expectedTimeBoarding": null,
+            "expectedTimeGateClosing": null,
+            "expectedTimeGateOpen": null,
+            "expectedTimeOnBelt": "2021-07-30T00:17:01.000+02:00",
+            "expectedSecurityFilter": null,
+            "flightDirection": "A",
+            "flightName": "KL2579",
+            "flightNumber": 2579,
+            "gate": "C12",
+            "pier": "C",
+            "id": "132603125918000588",
+            "isOperationalFlight": true,
+            "mainFlight": "HV6334",
+            "prefixIATA": "KL",
+            "prefixICAO": "KLM",
+            "airlineCode": 100,
+            "publicEstimatedOffBlockTime": null,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "VLC"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2021-07-30T00:00:00.000+02:00",
+            "scheduleDate": "2021-07-30",
+            "scheduleTime": "00:00:00",
+            "serviceType": "J",
+            "terminal": 1,
+            "transferPositions": null,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2021-07-30T01:03:46.160+02:00",
+            "actualLandingTime": "2021-07-29T23:37:14.000+02:00",
+            "actualOffBlockTime": null,
+            "aircraftRegistration": "PHHZG",
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "73H"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "4"
+                ]
+            },
+            "checkinAllocations": null,
+            "codeshares": null,
+            "estimatedLandingTime": "2021-07-29T23:37:14.000+02:00",
+            "expectedTimeBoarding": null,
+            "expectedTimeGateClosing": null,
+            "expectedTimeGateOpen": null,
+            "expectedTimeOnBelt": "2021-07-30T00:15:42.000+02:00",
+            "expectedSecurityFilter": null,
+            "flightDirection": "A",
+            "flightName": "HV5586",
+            "flightNumber": 5586,
+            "gate": "D84",
+            "pier": "D",
+            "id": "132603125539724052",
+            "isOperationalFlight": true,
+            "mainFlight": "HV5586",
+            "prefixIATA": "HV",
+            "prefixICAO": "TRA",
+            "airlineCode": 164,
+            "publicEstimatedOffBlockTime": null,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "NCE"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2021-07-30T00:00:00.000+02:00",
+            "scheduleDate": "2021-07-30",
+            "scheduleTime": "00:00:00",
+            "serviceType": "J",
+            "terminal": 1,
+            "transferPositions": null,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2021-07-30T01:15:08.149+02:00",
+            "actualLandingTime": "2021-07-29T23:39:26.000+02:00",
+            "actualOffBlockTime": null,
+            "aircraftRegistration": "OOJEF",
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "73H"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "17"
+                ]
+            },
+            "checkinAllocations": null,
+            "codeshares": null,
+            "estimatedLandingTime": "2021-07-29T23:39:32.000+02:00",
+            "expectedTimeBoarding": null,
+            "expectedTimeGateClosing": null,
+            "expectedTimeGateOpen": null,
+            "expectedTimeOnBelt": "2021-07-30T01:09:08.831+02:00",
+            "expectedSecurityFilter": null,
+            "flightDirection": "A",
+            "flightName": "OR228",
+            "flightNumber": 228,
+            "gate": "D60",
+            "pier": "D",
+            "id": "132603124402555548",
+            "isOperationalFlight": true,
+            "mainFlight": "OR228",
+            "prefixIATA": "OR",
+            "prefixICAO": "TFL",
+            "airlineCode": 231,
+            "publicEstimatedOffBlockTime": null,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "AOK",
+                    "CHQ"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2021-07-30T00:00:00.000+02:00",
+            "scheduleDate": "2021-07-30",
+            "scheduleTime": "00:00:00",
+            "serviceType": "C",
+            "terminal": 3,
+            "transferPositions": null,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2021-07-30T01:35:21.132+02:00",
+            "actualLandingTime": "2021-07-29T23:58:26.000+02:00",
+            "actualOffBlockTime": null,
+            "aircraftRegistration": "PHHXK",
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "73H"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "6"
+                ]
+            },
+            "checkinAllocations": null,
+            "codeshares": null,
+            "estimatedLandingTime": "2021-07-29T23:58:38.000+02:00",
+            "expectedTimeBoarding": null,
+            "expectedTimeGateClosing": null,
+            "expectedTimeGateOpen": null,
+            "expectedTimeOnBelt": "2021-07-30T00:47:17.000+02:00",
+            "expectedSecurityFilter": null,
+            "flightDirection": "A",
+            "flightName": "HV5046",
+            "flightNumber": 5046,
+            "gate": "C15",
+            "pier": "C",
+            "id": "132603125539710066",
+            "isOperationalFlight": true,
+            "mainFlight": "HV5046",
+            "prefixIATA": "HV",
+            "prefixICAO": "TRA",
+            "airlineCode": 164,
+            "publicEstimatedOffBlockTime": null,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "KGS"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2021-07-30T00:00:00.000+02:00",
+            "scheduleDate": "2021-07-30",
+            "scheduleTime": "00:00:00",
+            "serviceType": "J",
+            "terminal": 1,
+            "transferPositions": null,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2021-07-30T04:38:00.780+02:00",
+            "actualLandingTime": null,
+            "actualOffBlockTime": "2021-07-30T04:28:22.000+02:00",
+            "aircraftRegistration": "ECNLK",
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "73H"
+            },
+            "baggageClaim": null,
+            "checkinAllocations": null,
+            "codeshares": null,
+            "estimatedLandingTime": null,
+            "expectedTimeBoarding": null,
+            "expectedTimeGateClosing": null,
+            "expectedTimeGateOpen": null,
+            "expectedTimeOnBelt": null,
+            "expectedSecurityFilter": null,
+            "flightDirection": "D",
+            "flightName": "HV075",
+            "flightNumber": 75,
+            "gate": null,
+            "pier": null,
+            "id": "132603124376717407",
+            "isOperationalFlight": true,
+            "mainFlight": "HV075",
+            "prefixIATA": "HV",
+            "prefixICAO": "TRA",
+            "airlineCode": 164,
+            "publicEstimatedOffBlockTime": null,
+            "publicFlightState": {
+                "flightStates": [
+                    "DEP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "PMI"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2021-07-30T00:00:00.000+02:00",
+            "scheduleDate": "2021-07-30",
+            "scheduleTime": "00:00:00",
+            "serviceType": "P",
+            "terminal": null,
+            "transferPositions": null,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2021-07-07T09:17:49.968+02:00",
+            "actualLandingTime": null,
+            "actualOffBlockTime": null,
+            "aircraftRegistration": null,
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "73H"
+            },
+            "baggageClaim": null,
+            "checkinAllocations": null,
+            "codeshares": null,
+            "estimatedLandingTime": null,
+            "expectedTimeBoarding": null,
+            "expectedTimeGateClosing": null,
+            "expectedTimeGateOpen": null,
+            "expectedTimeOnBelt": null,
+            "expectedSecurityFilter": null,
+            "flightDirection": "A",
+            "flightName": "OR880",
+            "flightNumber": 880,
+            "gate": null,
+            "pier": null,
+            "id": "132603124402572404",
+            "isOperationalFlight": true,
+            "mainFlight": "OR880",
+            "prefixIATA": "OR",
+            "prefixICAO": "TFL",
+            "airlineCode": 231,
+            "publicEstimatedOffBlockTime": null,
+            "publicFlightState": {
+                "flightStates": [
+                    "CNX"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "AYT"
+                ],
+                "eu": "N",
+                "visa": false
+            },
+            "scheduleDateTime": "2021-07-30T00:05:00.000+02:00",
+            "scheduleDate": "2021-07-30",
+            "scheduleTime": "00:05:00",
+            "serviceType": "J",
+            "terminal": null,
+            "transferPositions": null,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2021-07-27T13:17:06.352+02:00",
+            "actualLandingTime": null,
+            "actualOffBlockTime": null,
+            "aircraftRegistration": "PHHZE",
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "73H"
+            },
+            "baggageClaim": null,
+            "checkinAllocations": null,
+            "codeshares": {
+                "codeshares": [
+                    "KL2672"
+                ]
+            },
+            "estimatedLandingTime": null,
+            "expectedTimeBoarding": null,
+            "expectedTimeGateClosing": null,
+            "expectedTimeGateOpen": null,
+            "expectedTimeOnBelt": null,
+            "expectedSecurityFilter": null,
+            "flightDirection": "A",
+            "flightName": "HV5360",
+            "flightNumber": 5360,
+            "gate": null,
+            "pier": null,
+            "id": "132603125539718416",
+            "isOperationalFlight": true,
+            "mainFlight": "HV5360",
+            "prefixIATA": "HV",
+            "prefixICAO": "TRA",
+            "airlineCode": 164,
+            "publicEstimatedOffBlockTime": null,
+            "publicFlightState": {
+                "flightStates": [
+                    "CNX"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "FAO"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2021-07-30T00:05:00.000+02:00",
+            "scheduleDate": "2021-07-30",
+            "scheduleTime": "00:05:00",
+            "serviceType": "J",
+            "terminal": null,
+            "transferPositions": null,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2021-07-27T13:17:06.352+02:00",
+            "actualLandingTime": null,
+            "actualOffBlockTime": null,
+            "aircraftRegistration": "PHHZE",
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "73H"
+            },
+            "baggageClaim": null,
+            "checkinAllocations": null,
+            "codeshares": {
+                "codeshares": [
+                    "KL2672"
+                ]
+            },
+            "estimatedLandingTime": null,
+            "expectedTimeBoarding": null,
+            "expectedTimeGateClosing": null,
+            "expectedTimeGateOpen": null,
+            "expectedTimeOnBelt": null,
+            "expectedSecurityFilter": null,
+            "flightDirection": "A",
+            "flightName": "KL2672",
+            "flightNumber": 2672,
+            "gate": null,
+            "pier": null,
+            "id": "132603125918003312",
+            "isOperationalFlight": true,
+            "mainFlight": "HV5360",
+            "prefixIATA": "KL",
+            "prefixICAO": "KLM",
+            "airlineCode": 100,
+            "publicEstimatedOffBlockTime": null,
+            "publicFlightState": {
+                "flightStates": [
+                    "CNX"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "FAO"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2021-07-30T00:05:00.000+02:00",
+            "scheduleDate": "2021-07-30",
+            "scheduleTime": "00:05:00",
+            "serviceType": "J",
+            "terminal": null,
+            "transferPositions": null,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2021-07-30T00:11:29.072+02:00",
+            "actualLandingTime": null,
+            "actualOffBlockTime": "2021-07-30T00:01:04.000+02:00",
+            "aircraftRegistration": "PHCKA",
+            "aircraftType": {
+                "iataMain": "74F",
+                "iataSub": "74Y"
+            },
+            "baggageClaim": null,
+            "checkinAllocations": null,
+            "codeshares": null,
+            "estimatedLandingTime": null,
+            "expectedTimeBoarding": null,
+            "expectedTimeGateClosing": null,
+            "expectedTimeGateOpen": null,
+            "expectedTimeOnBelt": null,
+            "expectedSecurityFilter": null,
+            "flightDirection": "D",
+            "flightName": "MP7341",
+            "flightNumber": 7341,
+            "gate": null,
+            "pier": null,
+            "id": "132603126210870521",
+            "isOperationalFlight": true,
+            "mainFlight": "MP7341",
+            "prefixIATA": "MP",
+            "prefixICAO": "MPH",
+            "airlineCode": 122,
+            "publicEstimatedOffBlockTime": "2021-07-30T00:15:00.000+02:00",
+            "publicFlightState": {
+                "flightStates": [
+                    "DEP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "VCP",
+                    "SCL",
+                    "UIO",
+                    "MIA"
+                ],
+                "eu": "N",
+                "visa": false
+            },
+            "scheduleDateTime": "2021-07-30T00:15:00.000+02:00",
+            "scheduleDate": "2021-07-30",
+            "scheduleTime": "00:15:00",
+            "serviceType": "F",
+            "terminal": null,
+            "transferPositions": null,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2021-07-30T01:15:27.113+02:00",
+            "actualLandingTime": "2021-07-29T23:52:58.000+02:00",
+            "actualOffBlockTime": null,
+            "aircraftRegistration": "PHHSF",
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "73H"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "2"
+                ]
+            },
+            "checkinAllocations": null,
+            "codeshares": {
+                "codeshares": [
+                    "KL2552"
+                ]
+            },
+            "estimatedLandingTime": "2021-07-29T23:52:44.000+02:00",
+            "expectedTimeBoarding": null,
+            "expectedTimeGateClosing": null,
+            "expectedTimeGateOpen": null,
+            "expectedTimeOnBelt": "2021-07-30T00:25:54.000+02:00",
+            "expectedSecurityFilter": null,
+            "flightDirection": "A",
+            "flightName": "HV6522",
+            "flightNumber": 6522,
+            "gate": "D85",
+            "pier": "D",
+            "id": "132603125539824906",
+            "isOperationalFlight": true,
+            "mainFlight": "HV6522",
+            "prefixIATA": "HV",
+            "prefixICAO": "TRA",
+            "airlineCode": 164,
+            "publicEstimatedOffBlockTime": null,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "LPA"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2021-07-30T00:15:00.000+02:00",
+            "scheduleDate": "2021-07-30",
+            "scheduleTime": "00:15:00",
+            "serviceType": "J",
+            "terminal": 1,
+            "transferPositions": null,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2021-07-30T01:15:27.113+02:00",
+            "actualLandingTime": "2021-07-29T23:52:58.000+02:00",
+            "actualOffBlockTime": null,
+            "aircraftRegistration": "PHHSF",
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "73H"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "2"
+                ]
+            },
+            "checkinAllocations": null,
+            "codeshares": {
+                "codeshares": [
+                    "KL2552"
+                ]
+            },
+            "estimatedLandingTime": "2021-07-29T23:52:44.000+02:00",
+            "expectedTimeBoarding": null,
+            "expectedTimeGateClosing": null,
+            "expectedTimeGateOpen": null,
+            "expectedTimeOnBelt": "2021-07-30T00:25:54.000+02:00",
+            "expectedSecurityFilter": null,
+            "flightDirection": "A",
+            "flightName": "KL2552",
+            "flightNumber": 2552,
+            "gate": "D85",
+            "pier": "D",
+            "id": "132603125918000426",
+            "isOperationalFlight": true,
+            "mainFlight": "HV6522",
+            "prefixIATA": "KL",
+            "prefixICAO": "KLM",
+            "airlineCode": 100,
+            "publicEstimatedOffBlockTime": null,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "LPA"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2021-07-30T00:15:00.000+02:00",
+            "scheduleDate": "2021-07-30",
+            "scheduleTime": "00:15:00",
+            "serviceType": "J",
+            "terminal": 1,
+            "transferPositions": null,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2021-07-20T17:27:01.773+02:00",
+            "actualLandingTime": null,
+            "actualOffBlockTime": null,
+            "aircraftRegistration": null,
+            "aircraftType": {
+                "iataMain": "32S",
+                "iataSub": "320"
+            },
+            "baggageClaim": null,
+            "checkinAllocations": null,
+            "codeshares": null,
+            "estimatedLandingTime": null,
+            "expectedTimeBoarding": null,
+            "expectedTimeGateClosing": null,
+            "expectedTimeGateOpen": null,
+            "expectedTimeOnBelt": null,
+            "expectedSecurityFilter": null,
+            "flightDirection": "A",
+            "flightName": "OR618",
+            "flightNumber": 618,
+            "gate": null,
+            "pier": null,
+            "id": "132603124402566426",
+            "isOperationalFlight": true,
+            "mainFlight": "OR618",
+            "prefixIATA": "OR",
+            "prefixICAO": "TFL",
+            "airlineCode": 231,
+            "publicEstimatedOffBlockTime": null,
+            "publicFlightState": {
+                "flightStates": [
+                    "CNX"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "PMI"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2021-07-30T00:25:00.000+02:00",
+            "scheduleDate": "2021-07-30",
+            "scheduleTime": "00:25:00",
+            "serviceType": "J",
+            "terminal": null,
+            "transferPositions": null,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2021-07-29T23:25:35.867+02:00",
+            "actualLandingTime": "2021-07-29T23:12:12.000+02:00",
+            "actualOffBlockTime": null,
+            "aircraftRegistration": "9VSFI",
+            "aircraftType": {
+                "iataMain": "74F",
+                "iataSub": "74Y"
+            },
+            "baggageClaim": null,
+            "checkinAllocations": null,
+            "codeshares": null,
+            "estimatedLandingTime": "2021-07-29T23:12:19.000+02:00",
+            "expectedTimeBoarding": null,
+            "expectedTimeGateClosing": null,
+            "expectedTimeGateOpen": null,
+            "expectedTimeOnBelt": null,
+            "expectedSecurityFilter": null,
+            "flightDirection": "A",
+            "flightName": "SQ7395",
+            "flightNumber": 7395,
+            "gate": null,
+            "pier": null,
+            "id": "132603127046746704",
+            "isOperationalFlight": true,
+            "mainFlight": "SQ7395",
+            "prefixIATA": "SQ",
+            "prefixICAO": "SIA",
+            "airlineCode": 152,
+            "publicEstimatedOffBlockTime": null,
+            "publicFlightState": {
+                "flightStates": [
+                    "LND",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "LHR"
+                ],
+                "eu": "N",
+                "visa": false
+            },
+            "scheduleDateTime": "2021-07-30T00:25:00.000+02:00",
+            "scheduleDate": "2021-07-30",
+            "scheduleTime": "00:25:00",
+            "serviceType": "F",
+            "terminal": null,
+            "transferPositions": null,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2021-07-20T17:29:26.209+02:00",
+            "actualLandingTime": null,
+            "actualOffBlockTime": null,
+            "aircraftRegistration": null,
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "7M8"
+            },
+            "baggageClaim": null,
+            "checkinAllocations": null,
+            "codeshares": null,
+            "estimatedLandingTime": null,
+            "expectedTimeBoarding": null,
+            "expectedTimeGateClosing": null,
+            "expectedTimeGateOpen": null,
+            "expectedTimeOnBelt": null,
+            "expectedSecurityFilter": null,
+            "flightDirection": "A",
+            "flightName": "OR652",
+            "flightNumber": 652,
+            "gate": null,
+            "pier": null,
+            "id": "132603124402566710",
+            "isOperationalFlight": true,
+            "mainFlight": "OR652",
+            "prefixIATA": "OR",
+            "prefixICAO": "TFL",
+            "airlineCode": 231,
+            "publicEstimatedOffBlockTime": null,
+            "publicFlightState": {
+                "flightStates": [
+                    "CNX"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "LPA"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2021-07-30T00:30:00.000+02:00",
+            "scheduleDate": "2021-07-30",
+            "scheduleTime": "00:30:00",
+            "serviceType": "J",
+            "terminal": null,
+            "transferPositions": null,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2021-07-13T10:09:26.684+02:00",
+            "actualLandingTime": null,
+            "actualOffBlockTime": null,
+            "aircraftRegistration": null,
+            "aircraftType": {
+                "iataMain": "32S",
+                "iataSub": "320"
+            },
+            "baggageClaim": null,
+            "checkinAllocations": null,
+            "codeshares": null,
+            "estimatedLandingTime": null,
+            "expectedTimeBoarding": null,
+            "expectedTimeGateClosing": null,
+            "expectedTimeGateOpen": null,
+            "expectedTimeOnBelt": null,
+            "expectedSecurityFilter": null,
+            "flightDirection": "A",
+            "flightName": "OR962",
+            "flightNumber": 962,
+            "gate": null,
+            "pier": null,
+            "id": "132603124402574998",
+            "isOperationalFlight": true,
+            "mainFlight": "OR962",
+            "prefixIATA": "OR",
+            "prefixICAO": "TFL",
+            "airlineCode": 231,
+            "publicEstimatedOffBlockTime": null,
+            "publicFlightState": {
+                "flightStates": [
+                    "CNX"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "PFO"
+                ],
+                "eu": "E",
+                "visa": false
+            },
+            "scheduleDateTime": "2021-07-30T00:40:00.000+02:00",
+            "scheduleDate": "2021-07-30",
+            "scheduleTime": "00:40:00",
+            "serviceType": "J",
+            "terminal": null,
+            "transferPositions": null,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2021-07-30T01:51:43.137+02:00",
+            "actualLandingTime": "2021-07-30T00:33:55.000+02:00",
+            "actualOffBlockTime": null,
+            "aircraftRegistration": "PHHXB",
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "73H"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "15"
+                ]
+            },
+            "checkinAllocations": null,
+            "codeshares": null,
+            "estimatedLandingTime": "2021-07-30T00:34:24.000+02:00",
+            "expectedTimeBoarding": null,
+            "expectedTimeGateClosing": null,
+            "expectedTimeGateOpen": null,
+            "expectedTimeOnBelt": "2021-07-30T01:38:06.743+02:00",
+            "expectedSecurityFilter": null,
+            "flightDirection": "A",
+            "flightName": "HV5804",
+            "flightNumber": 5804,
+            "gate": "E7",
+            "pier": "E",
+            "id": "132603125539731670",
+            "isOperationalFlight": true,
+            "mainFlight": "HV5804",
+            "prefixIATA": "HV",
+            "prefixICAO": "TRA",
+            "airlineCode": 164,
+            "publicEstimatedOffBlockTime": null,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "TLV"
+                ],
+                "eu": "N",
+                "visa": false
+            },
+            "scheduleDateTime": "2021-07-30T00:50:00.000+02:00",
+            "scheduleDate": "2021-07-30",
+            "scheduleTime": "00:50:00",
+            "serviceType": "J",
+            "terminal": 3,
+            "transferPositions": null,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2021-07-30T02:15:00.114+02:00",
+            "actualLandingTime": "2021-07-30T00:54:35.000+02:00",
+            "actualOffBlockTime": null,
+            "aircraftRegistration": "PHHZX",
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "73H"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "4"
+                ]
+            },
+            "checkinAllocations": null,
+            "codeshares": {
+                "codeshares": [
+                    "KL2665"
+                ]
+            },
+            "estimatedLandingTime": "2021-07-30T00:55:12.000+02:00",
+            "expectedTimeBoarding": null,
+            "expectedTimeGateClosing": null,
+            "expectedTimeGateOpen": null,
+            "expectedTimeOnBelt": "2021-07-30T01:28:11.000+02:00",
+            "expectedSecurityFilter": null,
+            "flightDirection": "A",
+            "flightName": "HV5822",
+            "flightNumber": 5822,
+            "gate": "D82",
+            "pier": "D",
+            "id": "132603125539731814",
+            "isOperationalFlight": true,
+            "mainFlight": "HV5822",
+            "prefixIATA": "HV",
+            "prefixICAO": "TRA",
+            "airlineCode": 164,
+            "publicEstimatedOffBlockTime": null,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "BRI"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2021-07-30T01:10:00.000+02:00",
+            "scheduleDate": "2021-07-30",
+            "scheduleTime": "01:10:00",
+            "serviceType": "J",
+            "terminal": 1,
+            "transferPositions": null,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2021-07-30T02:15:00.114+02:00",
+            "actualLandingTime": "2021-07-30T00:54:35.000+02:00",
+            "actualOffBlockTime": null,
+            "aircraftRegistration": "PHHZX",
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "73H"
+            },
+            "baggageClaim": {
+                "belts": [
+                    "4"
+                ]
+            },
+            "checkinAllocations": null,
+            "codeshares": {
+                "codeshares": [
+                    "KL2665"
+                ]
+            },
+            "estimatedLandingTime": "2021-07-30T00:55:12.000+02:00",
+            "expectedTimeBoarding": null,
+            "expectedTimeGateClosing": null,
+            "expectedTimeGateOpen": null,
+            "expectedTimeOnBelt": "2021-07-30T01:28:11.000+02:00",
+            "expectedSecurityFilter": null,
+            "flightDirection": "A",
+            "flightName": "KL2665",
+            "flightNumber": 2665,
+            "gate": "D82",
+            "pier": "D",
+            "id": "132603125918003244",
+            "isOperationalFlight": true,
+            "mainFlight": "HV5822",
+            "prefixIATA": "KL",
+            "prefixICAO": "KLM",
+            "airlineCode": 100,
+            "publicEstimatedOffBlockTime": null,
+            "publicFlightState": {
+                "flightStates": [
+                    "ARR",
+                    "EXP"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "BRI"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2021-07-30T01:10:00.000+02:00",
+            "scheduleDate": "2021-07-30",
+            "scheduleTime": "01:10:00",
+            "serviceType": "J",
+            "terminal": 1,
+            "transferPositions": null,
+            "schemaVersion": "4"
+        },
+        {
+            "lastUpdatedAt": "2021-07-20T17:19:25.811+02:00",
+            "actualLandingTime": null,
+            "actualOffBlockTime": null,
+            "aircraftRegistration": null,
+            "aircraftType": {
+                "iataMain": "737",
+                "iataSub": "7M8"
+            },
+            "baggageClaim": null,
+            "checkinAllocations": null,
+            "codeshares": null,
+            "estimatedLandingTime": null,
+            "expectedTimeBoarding": null,
+            "expectedTimeGateClosing": null,
+            "expectedTimeGateOpen": null,
+            "expectedTimeOnBelt": null,
+            "expectedSecurityFilter": null,
+            "flightDirection": "A",
+            "flightName": "OR520",
+            "flightNumber": 520,
+            "gate": null,
+            "pier": null,
+            "id": "132603124402563746",
+            "isOperationalFlight": true,
+            "mainFlight": "OR520",
+            "prefixIATA": "OR",
+            "prefixICAO": "TFL",
+            "airlineCode": 231,
+            "publicEstimatedOffBlockTime": null,
+            "publicFlightState": {
+                "flightStates": [
+                    "CNX"
+                ]
+            },
+            "route": {
+                "destinations": [
+                    "FUE"
+                ],
+                "eu": "S",
+                "visa": false
+            },
+            "scheduleDateTime": "2021-07-30T01:15:00.000+02:00",
+            "scheduleDate": "2021-07-30",
+            "scheduleTime": "01:15:00",
+            "serviceType": "J",
+            "terminal": null,
+            "transferPositions": null,
+            "schemaVersion": "4"
+        }
+    ]
+}
