@@ -1,3 +1,4 @@
+import key as key
 import requests
 from bs4 import BeautifulSoup
 
@@ -72,6 +73,12 @@ if __name__ == '__main__':
             #вывод датафрейма
             frame = DataFrame(resume_data)
             print(tabulate(frame, headers='keys', tablefmt='psql'))
+
+            with open('resume.csv', 'w') as file:
+                writer = csv.DictWriter(file, fieldnames=list(resume_data.keys()))
+                writer.writeheader()
+                for i in range(len(resume_data['position'])):
+                    writer.writerow((key: resume_data[key][i] for key in resume_data.keys()))
 
 
 
