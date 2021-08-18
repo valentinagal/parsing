@@ -1,7 +1,7 @@
 from pprint import pprint
 import requests
 
-url = 'https://api.schiphol.nl/public-flights/flights'
+url = f'https://api.schiphol.nl/public-flights/flights'
 params = {'accept': 'application/json',
           'resourceversion': 'v4',
           'app_id': 'ca68432c',
